@@ -1,7 +1,7 @@
 # React + Vite
 
 Live Preview:
-https://github.com/juskid/odin-cv-application/
+https://astonishing-otter-34931a.netlify.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
