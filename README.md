@@ -1,5 +1,8 @@
 # React + Vite
 
+Live Preview:
+https://github.com/juskid/odin-cv-application/
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
